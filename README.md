@@ -3,5 +3,4 @@
 ##### Only supports Windows platform. 
 ##### You can change the pictures in /res, and just modify the animation.json, then that will work.
 
-![image](https://github.com/yuanluo2/desktop_pet/assets/49439486/c7d668ce-b3e7-477e-bff7-97c4031d1db3)
-
+![desktoppeg](https://github.com/yuanluo2/desktop_pet/assets/49439486/3460685c-d2fa-4424-b6d6-09085ddbf1c3)
