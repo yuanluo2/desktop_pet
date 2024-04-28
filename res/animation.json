@@ -1,0 +1,61 @@
+{
+    "up": [
+        "res\\frames\\up\\frame_0.png",
+        "res\\frames\\up\\frame_1.png",
+        "res\\frames\\up\\frame_2.png",
+        "res\\frames\\up\\frame_3.png",
+        "res\\frames\\up\\frame_4.png",
+        "res\\frames\\up\\frame_5.png",
+        "res\\frames\\up\\frame_6.png",
+        "res\\frames\\up\\frame_7.png",
+        "res\\frames\\up\\frame_8.png",
+        "res\\frames\\up\\frame_9.png"
+    ],
+    "down": [
+        "res\\frames\\down\\frame_0.png",
+        "res\\frames\\down\\frame_1.png",
+        "res\\frames\\down\\frame_2.png",
+        "res\\frames\\down\\frame_3.png",
+        "res\\frames\\down\\frame_4.png",
+        "res\\frames\\down\\frame_5.png",
+        "res\\frames\\down\\frame_6.png",
+        "res\\frames\\down\\frame_7.png",
+        "res\\frames\\down\\frame_8.png",
+        "res\\frames\\down\\frame_9.png",
+        "res\\frames\\down\\frame_10.png",
+        "res\\frames\\down\\frame_11.png",
+        "res\\frames\\down\\frame_12.png",
+        "res\\frames\\down\\frame_13.png",
+        "res\\frames\\down\\frame_14.png",
+        "res\\frames\\down\\frame_15.png",
+        "res\\frames\\down\\frame_16.png"
+    ],
+    "lay": [
+        "res\\frames\\lay\\frame_0.png",
+        "res\\frames\\lay\\frame_1.png",
+        "res\\frames\\lay\\frame_2.png",
+        "res\\frames\\lay\\frame_3.png",
+        "res\\frames\\lay\\frame_4.png",
+        "res\\frames\\lay\\frame_5.png",
+        "res\\frames\\lay\\frame_6.png",
+        "res\\frames\\lay\\frame_7.png",
+        "res\\frames\\lay\\frame_8.png",
+        "res\\frames\\lay\\frame_9.png",
+        "res\\frames\\lay\\frame_10.png",
+        "res\\frames\\lay\\frame_11.png",
+        "res\\frames\\lay\\frame_12.png",
+        "res\\frames\\lay\\frame_13.png"
+    ],
+    "hit": [
+        "res\\frames\\hit\\frame_0.png",
+        "res\\frames\\hit\\frame_1.png",
+        "res\\frames\\hit\\frame_2.png",
+        "res\\frames\\hit\\frame_3.png",
+        "res\\frames\\hit\\frame_4.png",
+        "res\\frames\\hit\\frame_5.png",
+        "res\\frames\\hit\\frame_6.png",
+        "res\\frames\\hit\\frame_7.png",
+        "res\\frames\\hit\\frame_8.png",
+        "res\\frames\\hit\\frame_9.png"
+    ]
+}
